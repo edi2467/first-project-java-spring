@@ -1,0 +1,42 @@
+First Spring Boot Project
+
+This project was created as part of the Spring Framework classes at Vistula University.  
+Its purpose is to introduce the basics of Spring Boot, controllers, HTTP requests, and simple MVC views using Thymeleaf.
+
+ Project Overview
+
+The application demonstrates:
+
+- Creating a Spring Boot project using Spring Initializr  
+- Building a simple REST controller  
+- Handling HTTP GET requests  
+- Passing parameters using `@RequestParam`  
+- Rendering a dynamic HTML view using Thymeleaf  
+- Serving static resources (images)
+- 
+ 🛠 Technologies Used
+
+  Java 17+
+- Spring Boot
+- Spring Web
+- Thymeleaf
+- Lombok
+- Maven
+- IntelliJ IDEA
+
+---
+ 📂 Project Structure
+ 
+ src/main/java/pl/edu/vistula/firstprojectjavaspring
+ 
+FirstProjectJavaSpringApplication.java
+controller
+HelloController.java
+
+src/main/resources
+
+ static/images/vistula.png
+ templates/greeting.html
+
+
+
