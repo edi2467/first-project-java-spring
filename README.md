@@ -38,5 +38,19 @@ src/main/resources
  static/images/vistula.png
  templates/greeting.html
 
+ 📸 Screenshots
+
+ 1️⃣ Spring Initializr
+[Spring Initializr](src/main/screenshots/Spring-initializr.png)
+
+2️⃣ Application Running
+![App Running](src/main/screenshots/console-output.png)
+
+3️⃣ Greeting Endpoint
+![Greeting Endpoint](src/main/screenshots/greeting-vistula.png)
+
+
+
+
 
 
