@@ -41,7 +41,7 @@ src/main/resources
  📸 Screenshots
 
  1️⃣ Spring Initializr
-[Spring Initializr](src/main/screenshots/Spring-initializr.png)
+[Spring Initializr](src/main/screenshots/Spring-Initializr.png)
 
 2️⃣ Application Running
 ![App Running](src/main/screenshots/console-output.png)
