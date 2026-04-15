@@ -41,14 +41,13 @@ src/main/resources
  📸 Screenshots
 
  1️⃣ Spring Initializr
-[Spring Initializr](src/main/screenshots/Spring-Initializr.png)
+[Spring Initializr](first-project-java-spring/src/main/screenshots/Spring-Initializr.png)
 
 2️⃣ Application Running
-![App Running](src/main/screenshots/console-output.png)
+![App Running](first-project-java-spring/src/main/screenshots/console-output.png)
 
 3️⃣ Greeting Endpoint
-![Greeting Endpoint](src/main/screenshots/greeting-vistula.png)
-
+![Greeting Endpoint](first-project-java-spring/src/main/screenshots/greeting-vistula.png)
 
 
 
